@@ -3,7 +3,7 @@ import com.cage.colorharmony.*;
 import java.util.Iterator;
 
 int size = 30;
-
+ 
 // Midi Manager
 
 // From Leon
